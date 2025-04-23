@@ -11,9 +11,6 @@ const ColorName = ({colorValue, setColorValue})=>{
        required
        value = {colorValue}
        onChange = {(e)=> setColorValue(e.target.value)}
-       
-       
-       
        />
 
 
